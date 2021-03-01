@@ -1,0 +1,24 @@
+{
+  "name": "stock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node stockapi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomeryrd/stock-api.git"
+  },
+  "author": "zackify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomeryrd/stock-api/issues"
+  },
+  "homepage": "https://github.com/montgomeryrd/stock-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0"
+  }
+}
